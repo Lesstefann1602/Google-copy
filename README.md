@@ -1,5 +1,5 @@
 # Página Google clon
-## Descropción
+## Descripción
 Hello this is my first proyect: a **google clon** con interfase
 
 En este proyecto utilizamos el editor de código *Visual Studio Code* y los lenguajes **HTML y CSS**.
