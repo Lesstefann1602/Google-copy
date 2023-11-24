@@ -6,7 +6,7 @@ En este proyecto utilizamos el editor de código *Visual Studio Code* y los leng
 
 ### Elementos del proyecto
 <o1>
-  <li>menú de navegación</li>
+  <li>Menú de navegación</li>
   <li>Logo e input de búsqueda</li>
   <li>Menú de footer</li>
 </o1>
